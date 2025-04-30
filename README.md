@@ -59,7 +59,7 @@ cd VEX_Robot_Path-Planning/src
 
 ## Project Requirements  
 Refer to the lab specification for full requirements and grading rubric:  
-- [Robot Path Planning Lab Manual (PDF)](docs/MTE140 Robot Path Planning Lab.pdf)
+- [Project Requirements (PDF)](docs/MTE140%20Robot%20Path%20Planning%20Lab.pdf)
 
 ## Challenges & Solutions
 | Challenge            | Solution                                        |
